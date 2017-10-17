@@ -1,7 +1,7 @@
 # Internet Society Estonia põhikiri
 
 1. Mittetulundusühing nimega MTÜ Internet Society Estonia (lühendatult ISOC Estonia või ISOC-EE) on avalikes huvides tegutsev füüsiliste isikute vabatahtlik ühendus, mis asub Tallinnas.
-2. Ühingu põhieesmärk on esindada Eesti inteneti­kasutajaid nende ühiste huvide kaitsel suhtluses kohalikul ja rahvusvahelisel tasandil, milleks ühing muuhulgas koondab interneti­kasutajate kogukondi ning nende kogemust, aitab ellu viia algatusi ja projekte, teeb koostööd sarnaste huvidega organisatsioonidega ning kaasab vajadusel avalikkust.
+2. Ühingu põhieesmärk on esindada Eesti interneti­kasutajaid nende ühiste huvide kaitsel suhtluses kohalikul ja rahvusvahelisel tasandil, milleks ühing muuhulgas koondab interneti­kasutajate kogukondi ning nende kogemust, aitab ellu viia algatusi ja projekte, teeb koostööd sarnaste huvidega organisatsioonidega ning kaasab vajadusel avalikkust.
 3. Ühing on rahvusvahelise Internet Society Eesti haruorganisatsioon (Chapter of Internet Society) ning vastab sellele seatud nõuetele.
 
 ## Liikmelisus
