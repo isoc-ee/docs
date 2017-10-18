@@ -7,7 +7,7 @@
 ## Liikmelisus
 
 4. Ühingu liikmeks vastuvõtmist võib taotleda iga eraisik või juriidiline isik, kes on valmis kaasa lööma ühingu eesmärkide elluviimisel ning täidab ühingu põhikirja nõudeid. Liikmeks vastuvõtmise ja väljaarvamise korraldab ühingu juhatus.
-5. Ühingu liige on ühtlasi Internet Society liige ning ühingu liikmelisus on avatud kõigile Internet Society kohalikele liikmetele. Ühingu liikmelisus pole vajalik ühingu tegevustest osa võtmiseks.
+5. Ühingu eraisikust liige on ühtlasi Internet Society liige ning ühingu liikmelisus on avatud kõigile Internet Society piirkondlikele liikmetele. Ühingu liikmelisus pole vajalik ühingu tegevustest osa võtmiseks.
 6. Ühingu sisseastumis- ja liikmemaksu suurused kinnitab üldkoosolek.
 7. Ühingu liikmete õigused ja kohustused tulenevad seadusest, põhikirjast ning üldkoosoleku otsustest.
 
