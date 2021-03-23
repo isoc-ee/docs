@@ -25,7 +25,7 @@ Digivaldkonna põhiõigustega vastuolus olevad paragrahvid tuleks viivitamatult 
 
 Kui Tarbijakaitse ja Tehnilise Järelevalve Ametile esitatavaid andmeid ei ole andmete säilitamise direktiivi tühistamise tõttu enam põhjust edastada Euroopa Komisjonile, siis seda enam ei tohiks loobuda järelevalvest põhiõigustega vastuolus oleva metaandmete kogumise üle, vaid need tuleks edastada mõnele teisele järelevalvet teostavale sõltumatule haldusasutusele. Oleme seisukohal, et *järelevalve kaotamine pole mõeldav olukorras, kus on Euroopa Kohtu ja eri sõltumatute õigusekspertide hinnangul tegemist põhiõigustega vastuolus olevate sätetega* (vt punkt 2 siinsamas ülal).
 
-Sideseansside metaandmete üldise ja valimatu säilitamise kaotamise eest on aastate jooksul sõna võtnud nii Inimõiguste Keskus, advokatuuri esindajad Carri Ginter, Kätlin Sehver, Euroopa Kohtu endine kohtunik Uno Lõhmus, vandeadvokaat Karmen Turk ja digiõiguste organisatsioonide esindajad. [8]
+Sideseansside metaandmete üldise ja valimatu säilitamise kaotamise eest on aastate jooksul sõna võtnud Inimõiguste Keskus, advokatuuri esindajad Carri Ginter, Kätlin Sehver, Euroopa Kohtu endine kohtunik Uno Lõhmus, vandeadvokaat Karmen Turk ja digiõiguste organisatsioonide esindajad. [8]
 
 MTÜ Internet Society Estonia  
 (Chapter of Internet Society)
